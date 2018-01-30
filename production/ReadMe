@@ -1,0 +1,7 @@
+Both these files have the latest vetdrug basterms added for 
+A0C60   Non-food animal related matrices
+A0BXF   Animal meat commodities (tissue RPCs)..
+
+The code itself has many structual changes regarding madatory elements 
+progId and resUnit have to be changed to mandatory.
+labId and labAccred are no longer mandatory fields 
